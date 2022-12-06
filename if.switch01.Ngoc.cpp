@@ -11,11 +11,11 @@ int main() {
     
     //Tim so lon nhat
     if(b>max) max = b;
-   	if(c>max) max = c;
-	printf("\nSo lon nhat la: %.1f", max);	
+    if(c>max) max = c;
+    printf("\nSo lon nhat la: %.1f", max);	
 	
-	//Tim so nho nhat	
-	if(b<min) min = b;
-	if(c<min) min = c;
-	printf("\nSo nho nhat la: %.1f", min);	
+    //Tim so nho nhat	
+    if(b<min) min = b;
+    if(c<min) min = c;
+    printf("\nSo nho nhat la: %.1f", min);	
 }
