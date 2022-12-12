@@ -1,17 +1,17 @@
-# BaiTapLapTrinh_C
+## BaiTapLapTrinh_C
 
-##Lý thuyết:
+#Lý thuyết:
 
-1.if/switch (https://hoctructuyencntt.github.io/NNLT/Bai03.html)
+Phần1: Cấu trúc điều kiện (if,switch). (https://hoctructuyencntt.github.io/NNLT/Bai03.html)
 
-##Thực hành:
+#Thực hành:
 
-1.if.switch: 
+Phần1:
 
-BT1.(https://www.jdoodle.com/embed/v0/5AUi)
+Bài1.(https://www.jdoodle.com/embed/v0/5AUi)
 
-BT2.(https://www.jdoodle.com/embed/v0/5AWm)
+Bài2.(https://www.jdoodle.com/embed/v0/5AWm)
 
-BT3.(https://www.jdoodle.com/embed/v0/5AWy)
+Bài3.(https://www.jdoodle.com/embed/v0/5AWy)
 
-BT4.(https://www.jdoodle.com/embed/v0/5B1Z)
+Bài4.(https://www.jdoodle.com/embed/v0/5B1Z)
