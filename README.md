@@ -1,5 +1,4 @@
 # BaiTapLapTrinh_C
-
 ##Lý thuyết: 
 
 Phần1: [Cấu trúc điều kiện (if,switch)](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
