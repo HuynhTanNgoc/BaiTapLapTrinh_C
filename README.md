@@ -6,6 +6,6 @@
 ##Thực hành:
 1.if.switch: 
  1.(https://www.jdoodle.com/embed/v0/5AUi)
- 2.
+ 2.(https://www.jdoodle.com/embed/v0/5AWm)
  3.
  4.
