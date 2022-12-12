@@ -2,7 +2,7 @@
 
 ##Lý thuyết: 
 
-[Phần1: Cấu trúc điều kiện (if,switch)](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
+Phần1: [Cấu trúc điều kiện (if,switch)](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
 
 ##Thực hành:
 
