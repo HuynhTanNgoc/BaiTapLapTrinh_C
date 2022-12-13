@@ -1,3 +1,5 @@
+//Viet chuong trinh kiem tra mot so co phai la so nguyen to hay khong.
+//Mot so lon hon 1, chi chia het cho 1 va chinh no thi do la so nguyen to.
 #include"stdio.h"
 int main(){
 	//khai bao bien
@@ -16,7 +18,6 @@ int main(){
 			}
 		}
 		if(dem_uoc == 2){ //Neu dem_uoc bang 2 (N co 2 uoc)
-//Mot so > 1 chi chia het cho 1 va chinh no thi do la so nguyen to.
 			printf("\n%d la so nguyen to", N);
 		}else{ //Nguoc lai neu dem_uoc != 2;
 			printf("\n%d khong phai la so nguyen to", N);			
