@@ -20,3 +20,4 @@
 [Bài4](https://www.jdoodle.com/embed/v0/5D9l).
 [Bài5]().Chưa
 [Bài6](https://www.jdoodle.com/embed/v0/5Ddk).
+[Bài7](https://www.jdoodle.com/embed/v0/5DeA).
