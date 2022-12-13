@@ -8,7 +8,7 @@ int main(){
 	scanf("%d", &N);
 	S = 0;
 	//Xu ly va in ra ket qua
-	for	(i = 1; i <= N; i++){ 
+	for	(i = 1; i <= N; i++){ //dieu kien de chay vong lap.
 		S = S + pow(i, 3); //pow( , );  Tra ve so mu cua so da cho.
 	}
 	printf("Tong S = %d", S);
