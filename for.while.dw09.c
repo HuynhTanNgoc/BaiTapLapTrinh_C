@@ -2,7 +2,7 @@
 #include"stdio.h"
 int main(){
 	int sole;
-	for(sole=1;sole<=100;sole++){//Cho sole chay tu 1 den 100.
+	for(sole=1;sole<100;sole++){//Cho sole chay tu 1 den 99.
 		if(sole==5 || sole==7 || sole==93){//Neu sole = 5,7,93.
 			sole%2==0;//So chia het cho 2 la so chan
 			continue;//Bo qua cac cau lenh phia sau no va quay lai vong lap neu dieu kien ben trong vong lap la dung.
