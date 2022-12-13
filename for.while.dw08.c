@@ -1,5 +1,5 @@
 //Viet chuong trinh kiem tra mot so co phai la so nguyen to hay khong.
-//Mot so lon hon 1, chi chia het cho 1 va chinh no thi do la so nguyen to.
+//Mot so lon hon 1, chi chia het cho 1 va chinh no thi do la so nguyen to.(chi co 2 uoc)
 #include"stdio.h"
 int main(){
 	//khai bao bien
