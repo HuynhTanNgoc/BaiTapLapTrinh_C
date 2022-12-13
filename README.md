@@ -14,4 +14,4 @@ Phần1:
 [Bài4](https://www.jdoodle.com/embed/v0/5B1Z).
 
 Phần2:
-[Bài1]().
+[Bài1](https://www.jdoodle.com/embed/v0/5D7T).
