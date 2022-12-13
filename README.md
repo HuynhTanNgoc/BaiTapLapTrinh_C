@@ -13,5 +13,5 @@ Phần1:
 [Bài3](https://www.jdoodle.com/embed/v0/5AWy).
 [Bài4](https://www.jdoodle.com/embed/v0/5B1Z).
 
-phần2:
+Phần2:
 [Bài1]().
