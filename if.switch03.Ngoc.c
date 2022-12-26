@@ -32,7 +32,7 @@ int main() {
 	    	printf("\nPtrinh vo so nghiem");
 	    }
     	//TH2 neu b khac 0.	
-		else
+	    else
 	    	printf("\nPtrinh vo nghiem");		
 	    
 	    
