@@ -3,8 +3,8 @@
 int main(){
     //Khai bao bien:
 	int n, S;
-	n = 0;
-	S = 0;
+	n = 1;
+	S = 1;
 	//Xu ly va in ra ket qua:
 	while(S<10000){
 		n++;
