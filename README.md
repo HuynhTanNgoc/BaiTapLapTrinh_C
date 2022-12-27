@@ -10,7 +10,7 @@
 - Phần1: 
 [Bài1](https://www.jdoodle.com/embed/v0/5AUi).
 [Bài2](https://www.jdoodle.com/embed/v0/5AWm).
-[Bài3](https://www.jdoodle.com/embed/v0/5FVc).
+[Bài3](https://www.jdoodle.com/embed/v0/5G1T).
 [Bài4](https://www.jdoodle.com/embed/v0/5B1Z).
 
 - Phần2:
