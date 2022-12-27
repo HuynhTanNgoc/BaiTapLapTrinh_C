@@ -13,9 +13,9 @@ int main() {
   //Gom 2 truong hop a khac 0 va a bang 0	
      
     //Neu a khac 0 co 2 truong hop
-    
-     //TH1: b bang 0
     if(a!=0){
+	    
+     //TH1: b bang 0    
         if(b==0){
             printf("\n Ptrinh co nghiem x = 0");
         }
