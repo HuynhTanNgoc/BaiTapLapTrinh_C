@@ -7,8 +7,9 @@ int main(){
 	S = 1;
 	//Xu ly va in ra ket qua:
 	while(S<10000){
-		n++;
+		
 		S = S + n;
+		n++;
 	}
 	    printf("Gia tri tong:%d", S);
 	
