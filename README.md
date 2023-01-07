@@ -23,3 +23,7 @@
 [Bài7](https://www.jdoodle.com/embed/v0/5DeA).
 [Bài8](https://www.jdoodle.com/embed/v0/5Dpz).
 [Bài9](https://www.jdoodle.com/embed/v0/5DpI).
+
+- Phần3:
+Bài[1](https://www.jdoodle.com/embed/v0/5HBy).
+Bài[2]()
