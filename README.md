@@ -5,6 +5,8 @@
 
 - Phần2: [Cấu trúc lặp (for, while, do/while)](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
 
+- Phần3: [Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html).
+
 ## Thực hành:
 
 - Phần1: 
