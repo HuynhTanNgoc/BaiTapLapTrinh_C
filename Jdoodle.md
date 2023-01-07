@@ -11,13 +11,13 @@
 - 
 ## Thực hành:
 
-- Phần1: 
+- Phần3: 
 [Bài1](https://www.jdoodle.com/embed/v0/5AUi).
 [Bài2](https://www.jdoodle.com/embed/v0/5AWm).
 [Bài3](https://www.jdoodle.com/embed/v0/5G1T).
 [Bài4](https://www.jdoodle.com/embed/v0/5B1Z).
 
-- Phần2:
+- Phần4:
 [Bài1](https://www.jdoodle.com/embed/v0/5D7T).
 [Bài2](https://www.jdoodle.com/embed/v0/5G2p).
 [Bài3](https://www.jdoodle.com/embed/v0/5D8O).
@@ -28,6 +28,6 @@
 [Bài8](https://www.jdoodle.com/embed/v0/5Dpz).
 [Bài9](https://www.jdoodle.com/embed/v0/5DpI).
 
-- Phần3:
+- Phần5:
 [Bài1](https://www.jdoodle.com/embed/v0/5HBy).
 [Bài2]chưa
