@@ -1,12 +1,14 @@
 # BaiTapLapTrinh_C
 ## Lý thuyết: 
 
-- Phần1: [Cấu trúc điều kiện (if,switch)](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
+- Phần3: [Các câu lệnh rẽ nhánh](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
 
-- Phần2: [Cấu trúc lặp (for, while, do/while)](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
+- Phần4: [Các câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
 
-- Phần3: [Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html).
+- Phần5: [Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
 
+- Phần6: [Mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
+- 
 ## Thực hành:
 
 - Phần1: 
