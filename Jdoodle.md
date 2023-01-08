@@ -31,3 +31,6 @@
 - Phần5:
 [Bài1](https://www.jdoodle.com/a/5HBy).
 [Bài2]chưa
+[Bài3](https://www.jdoodle.com/a/5HHg).
+[Bài4](https://www.jdoodle.com/a/5HHw).
+
