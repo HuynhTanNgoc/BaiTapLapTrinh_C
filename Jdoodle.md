@@ -12,7 +12,7 @@
 ## Thực hành:
 
 - Phần3: 
-[Bài1](https://www.jdoodle.com/embed/v0/5AUi).
+[Bài1](https://www.jdoodle.com/a/5AUi).
 [Bài2](https://www.jdoodle.com/embed/v0/5AWm).
 [Bài3](https://www.jdoodle.com/embed/v0/5G1T).
 [Bài4](https://www.jdoodle.com/embed/v0/5B1Z).
