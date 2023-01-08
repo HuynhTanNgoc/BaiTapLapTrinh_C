@@ -13,21 +13,21 @@
 
 - Phần3: 
 [Bài1](https://www.jdoodle.com/a/5AUi).
-[Bài2](https://www.jdoodle.com/embed/v0/5AWm).
-[Bài3](https://www.jdoodle.com/embed/v0/5G1T).
-[Bài4](https://www.jdoodle.com/embed/v0/5B1Z).
+[Bài2](https://www.jdoodle.com/a/5AWm).
+[Bài3](https://www.jdoodle.com/a/5G1T).
+[Bài4](https://www.jdoodle.com/a/5B1Z).
 
 - Phần4:
-[Bài1](https://www.jdoodle.com/embed/v0/5D7T).
-[Bài2](https://www.jdoodle.com/embed/v0/5G2p).
-[Bài3](https://www.jdoodle.com/embed/v0/5D8O).
-[Bài4](https://www.jdoodle.com/embed/v0/5D9l).
-[Bài5](https://www.jdoodle.com/embed/v0/5Dqn).
-[Bài6](https://www.jdoodle.com/embed/v0/5G2t).
-[Bài7](https://www.jdoodle.com/embed/v0/5DeA).
-[Bài8](https://www.jdoodle.com/embed/v0/5Dpz).
-[Bài9](https://www.jdoodle.com/embed/v0/5DpI).
+[Bài1](https://www.jdoodle.com/a/5D7T).
+[Bài2](https://www.jdoodle.com/a/5G2p).
+[Bài3](https://www.jdoodle.com/a/5D8O).
+[Bài4](https://www.jdoodle.com/a/5D9l).
+[Bài5](https://www.jdoodle.com/a/5Dqn).
+[Bài6](https://www.jdoodle.com/a/5G2t).
+[Bài7](https://www.jdoodle.com/a/5DeA).
+[Bài8](https://www.jdoodle.com/a/5DpI).
+[Bài9](https://www.jdoodle.com/a/5Dfa).
 
 - Phần5:
-[Bài1](https://www.jdoodle.com/embed/v0/5HBy).
+[Bài1](https://www.jdoodle.com/a/5HBy).
 [Bài2]chưa
