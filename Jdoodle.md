@@ -34,3 +34,5 @@
 [Bài3](https://www.jdoodle.com/a/5HHg).
 [Bài4](https://www.jdoodle.com/a/5HHw).
 
+- Phần6:
+[BàiTổngquat](https://www.jdoodle.com/a/5I1s).
